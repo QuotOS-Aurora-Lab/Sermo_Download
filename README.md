@@ -28,7 +28,7 @@ Aether 原本是 Lawlearn 里的一扇小窗，API 入口挂在主程序的设�
 
 | 平台 | 版本 | 系统要求 | 安装包 |
 | --- | --- | --- | --- |
-| macOS | **1.0.0** | macOS 14.0 及以上 | [Sermo-1.0.0.dmg](https://github.com/LynneScheutie/Sermo-download/releases/download/macOS-v1.0.0/Sermo-1.0.0.dmg) · 1.6 MB |
+| macOS | **1.0.0** | macOS 14.0 及以上，Apple 芯片与 Intel 通用 | [Sermo-1.0.0.dmg](https://github.com/LynneScheutie/Sermo-download/releases/download/macOS-v1.0.0/Sermo-1.0.0.dmg) · 2.5 MB |
 
 全部历史版本都在 [Releases](../../releases) 里。
 
@@ -48,7 +48,7 @@ xattr -dr com.apple.quarantine /Applications/Sermo.app
 
 | 文件 | SHA-256 |
 | --- | --- |
-| `Sermo-1.0.0.dmg` | `f268c5026edb8d06fc8bf87a84146eb1ae391d5fecd0dc46dbdb9f68ff7c00c1` |
+| `Sermo-1.0.0.dmg` | `56ffcf24e3ccd3ccc8c1baa8d93186d13d2289f6ab0950ff81126df2da4b8056` |
 
 macOS 上执行 `shasum -a 256 文件名` 对比即可。
 
