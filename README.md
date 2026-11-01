@@ -28,7 +28,7 @@ Aether 原本是 Lawlearn 里的一扇小窗，API 入口挂在主程序的设�
 
 | 平台 | 版本 | 系统要求 | 安装包 |
 | --- | --- | --- | --- |
-| macOS | **1.0.0** | macOS 14.0 及以上，Apple 芯片与 Intel 通用 | [Sermo-1.0.0.dmg](https://github.com/LynneScheutie/Sermo-download/releases/download/macOS-v1.0.0/Sermo-1.0.0.dmg) · 2.5 MB |
+| macOS | **1.0.0** | macOS 14.0 及以上，Apple 芯片与 Intel 通用 | [Sermo-1.0.0.dmg](https://github.com/QuotOS-Aurora-Lab/Sermo-download/releases/download/macOS-v1.0.0/Sermo-1.0.0.dmg) · 2.5 MB |
 
 全部历史版本都在 [Releases](../../releases) 里。
 
@@ -54,7 +54,7 @@ macOS 上执行 `shasum -a 256 文件名` 对比即可。
 
 ## 关于源代码
 
-源代码在 [Sermo](https://github.com/LynneScheutie/Sermo) 仓库公开，采用 MIT 许可证。本仓库只放安装包，不含源文件。
+源代码在 [Sermo](https://github.com/QuotOS-Aurora-Lab/Sermo) 仓库公开，采用 MIT 许可证。本仓库只放安装包，不含源文件。
 
 可以自由使用、修改、再分发，保留版权声明即可。构建方式见源码仓库的 README，`./tools/package.sh` 一条命令就能出安装包。
 
