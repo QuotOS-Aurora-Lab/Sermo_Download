@@ -28,7 +28,7 @@ Aether 原本是 Lawlearn 里的一扇小窗，API 入口挂在主程序的设�
 
 | 平台 | 版本 | 系统要求 | 安装包 |
 | --- | --- | --- | --- |
-| macOS | **1.0.0** | macOS 14.0 及以上，Apple 芯片与 Intel 通用 | [Sermo-1.0.0.dmg](https://github.com/QuotOS-Aurora-Lab/Sermo-download/releases/download/macOS-v1.0.0/Sermo-1.0.0.dmg) · 2.5 MB |
+| macOS | **1.0.0** | macOS 14.0 及以上，Apple 芯片与 Intel 通用 | [Sermo-1.0.0.dmg](https://github.com/QuotOS-Aurora-Lab/Sermo_Download/releases/download/macOS-v1.0.0/Sermo-1.0.0.dmg) · 2.5 MB |
 
 全部历史版本都在 [Releases](../../releases) 里。
 
